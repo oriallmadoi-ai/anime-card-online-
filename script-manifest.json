@@ -1,0 +1,2359 @@
+[
+  {
+    "path": [
+      "Workspace",
+      "ArlongPark",
+      "PortalToLobby",
+      "PortalFX"
+    ],
+    "class": "Script",
+    "file": "src/Workspace/ArlongPark/PortalToLobby/PortalFX.server.luau",
+    "sha256": "50cb5527997ecba93bc8e2db8bca73b073c97a74045eb1ad5026d4c69e237171",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 2
+      }
+    }
+  },
+  {
+    "path": [
+      "Workspace",
+      "ArlongPark",
+      "MapBoundaries",
+      "VoidFailsafe"
+    ],
+    "class": "Script",
+    "file": "src/Workspace/ArlongPark/MapBoundaries/VoidFailsafe.server.luau",
+    "sha256": "fa264475cba5b704091c6d07ad86a26c510b7e1f4c06c568ad9a03d37184fc4e",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 1
+      }
+    }
+  },
+  {
+    "path": [
+      "Workspace",
+      "ArlongPark",
+      "Environment",
+      "BattlePools",
+      "PoolMotion"
+    ],
+    "class": "Script",
+    "file": "src/Workspace/ArlongPark/Environment/BattlePools/PoolMotion.server.luau",
+    "sha256": "11057edf050e7c6e9a9e84d667eaaa8f7e14c80f546e23d96f2ca206399e8320",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 2
+      }
+    }
+  },
+  {
+    "path": [
+      "Workspace",
+      "RoshiHouse",
+      "PortalToLobby",
+      "PortalFX"
+    ],
+    "class": "Script",
+    "file": "src/Workspace/RoshiHouse/PortalToLobby/PortalFX.server.luau",
+    "sha256": "50cb5527997ecba93bc8e2db8bca73b073c97a74045eb1ad5026d4c69e237171",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 2
+      }
+    }
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "RevealController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/RevealController.luau",
+    "sha256": "0dfb74b34d584dfaa1c25d539d90f9399169ee1b5566c53c36d72a07662a3d36",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "ThemeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/ThemeController.luau",
+    "sha256": "123777e80c6e6fc72ffa1ac5c8e4c014086451a03b48941df3ddc47aeff980d6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "DeckController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/DeckController.luau",
+    "sha256": "61822b2cfc59040478ab8b29cfe8dce66775b8732e0ff0ecc79cea775aad7ecf",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "MusicController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MusicController.luau",
+    "sha256": "08483679a2ce54abad361d34e27d43b718de0392b2f6227c649cf8c0c01345cb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "LeaderboardController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/LeaderboardController.luau",
+    "sha256": "c7e93cf9783679d4a3de73c1f89170845eefcc8d0455051e1a0397b99770a6b3",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "MenuController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MenuController.luau",
+    "sha256": "a0e3409e33de68f1ce5ab5c25d9b4a84bdf076699323beabe5adf7c97d0e9755",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "UIController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/UIController.luau",
+    "sha256": "888a88bad1c29f81efc074fc511d8aa40f74c726fddfc77b46dd68d69e544273",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "LocationController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/LocationController.luau",
+    "sha256": "07d79ed35b425b85f0d6c188d7a0035636aedad86db57aca5a651dbabe92e754",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "SkillTreeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/SkillTreeController.luau",
+    "sha256": "cdba05a5db3975e6e8aca6419e7aca510170105caf02a730f65c7ade341fc998",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/BattleController.luau",
+    "sha256": "fe157613c5cb3db952c42a735eea579f7e72780c43584c9526f632d2bcb78c07",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "NPCEncounterController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/NPCEncounterController.luau",
+    "sha256": "7a7934bc757500f864e40b9a74175f3b53a2d8d29ed2eeff290d443a782b2e41",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "EncounterWorldController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/EncounterWorldController.luau",
+    "sha256": "363422d005fe7f1c5a103635dc456f3f8378e32ee8027539529c319403984c32",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "MountController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MountController.luau",
+    "sha256": "46518f41081b71203462dcf330e7e4758dcb1977acf550f20eb9942eef67a74b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "MonumentController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MonumentController.luau",
+    "sha256": "035081524887ed23fe4783e9f45d058416056ac6b4515956c02d8cc081c99d7f",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "CardForgeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/CardForgeController.luau",
+    "sha256": "99c862a9d191fa8b8081c6e9db500f3b5b55fe2a447c7feb93a403a63de85595",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "AudioController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/AudioController.luau",
+    "sha256": "bc64c2c6276143b561b5ea77e7a487d61f11be13367480b3fbf14c26627ff267",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Controllers",
+      "MovementController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MovementController.luau",
+    "sha256": "01e2301626d3d5b3077eafd8f2a0985ba16b2bbb193ff6cfc6482fb1eb004656",
+    "properties": {}
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Client",
+      "Bootstrap"
+    ],
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/Client/Bootstrap.client.luau",
+    "sha256": "87037f80b22f81099ab87250acc2efe5aa11e11aa86040b054461cccf3e2ac1f",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "GlobalBoldFuzzyBubbles"
+    ],
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/GlobalBoldFuzzyBubbles.client.luau",
+    "sha256": "512619de982f4174c9ba3bd34299dcd6e459c5f397cb9fcade164bb6b8d72546",
+    "properties": {
+      "Disabled": true,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "RoshiEnvironmentController"
+    ],
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/RoshiEnvironmentController.client.luau",
+    "sha256": "46f563efc6ce2805bf3b7aa1f8899c69e3c53cbf09a38b8dde786de1f50dcec2",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "GameConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/GameConfig.luau",
+    "sha256": "28c31a58c6f5ea4835f5fdc77891ad3c1b46e9a956570fe07dcaa33a915fd3bd",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "PassiveDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/PassiveDefinitions.luau",
+    "sha256": "85c30305fcf190aa4003cfb794ae2bba128f1ac4c1173782f878cc17551ea09c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "CardDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/CardDefinitions.luau",
+    "sha256": "f39914ca0869d9d61d21fa02fd33f7c7deb24fd10014377ad1662022d52339df",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "StatusEffects"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/StatusEffects.luau",
+    "sha256": "9ae166d656adb3b172b0008052438e855e45fe64142fd0d56f5ced8783f930e4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "Limits"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/Limits.luau",
+    "sha256": "64e043f658b3befc673547faeadf9341c2d53d031a06f20e6c1190a21c03c86c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "ChallengeModifiers"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/ChallengeModifiers.luau",
+    "sha256": "1d592d212a45b625cfeaf465bbb242b4f608fd21b5af15b39920506ac84195e7",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "EnemyDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/EnemyDefinitions.luau",
+    "sha256": "6f577ba28f7f4b77ccc739e0ad97d3b882c63ed7016886433dacfe885e05b418",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "StageDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/StageDefinitions.luau",
+    "sha256": "7a378d7478cf5910ef871275003ec92e02d8aed3ed1d769f09642bc1b2af1c1c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "VariantConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/VariantConfig.luau",
+    "sha256": "c8cafcd30cdeb622b41791ca0588a941edb75e7abf41395bc21a887e6f01c7a4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "RarityBands"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/RarityBands.luau",
+    "sha256": "71096a44ac5f28698efe0365ba1e9e700d8ce2e13476e1924e5c81d8c28d9a84",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "SupportDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/SupportDefinitions.luau",
+    "sha256": "63b9aee7c7696413ac6355ea884ff5c19adc25a78aab9fc30dbe1f1a712746d8",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "BookDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/BookDefinitions.luau",
+    "sha256": "184f82b161f20b2eaa623fc8b9b746e1184b7617e677247d1f04c884507d03aa",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "LocationDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/LocationDefinitions.luau",
+    "sha256": "8368535cfb4063ed2c694cb2225014148a624b46095354598c85ab7047b3f71e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "MenuConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/MenuConfig.luau",
+    "sha256": "679ad030b24cf00bdeb4178c46bbdd8451033370ca61e6cd2f0a87ff61ef788a",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "VfxAssets"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/VfxAssets.luau",
+    "sha256": "170dcca36754070e49176071154aa478428d5d2ff56a2da97e29c729eda6cb3e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "SkillDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/SkillDefinitions.luau",
+    "sha256": "df0071fe81a9da412b0c6c9032dc2ef6404e0d375655db335e34edd81f78d274",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "SkillEffects"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/SkillEffects.luau",
+    "sha256": "06fa7a154f6a8689957c651eb7ca418c7e82f022202fbd88116feb09277fa74c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "MapRegistry"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/MapRegistry.luau",
+    "sha256": "4f614bebd3b7f75dcac7a7841ef68c58ba918d4871d659705f0301c946344be0",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "EncounterDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/EncounterDefinitions.luau",
+    "sha256": "7195afb068ddffdb970b44945b339c5036da9cb0e7a9a5f55a872ad36aa03061",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "EncounterModes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/EncounterModes.luau",
+    "sha256": "f34baa5ed1c1c420e1f619453f7c4375a9eede7ead44e358ef1b105a49812eb7",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "MountDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/MountDefinitions.luau",
+    "sha256": "7f3519f8ce06aaa7d046089a9dea31230f86c0823bb399dc27fd2b4c8a63fdf3",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "SummonCoreConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/SummonCoreConfig.luau",
+    "sha256": "6055f50c657be9880854500d360c0e19900a3fd1c4ba8f6f110ab1cdfc4fb13d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "GamePassConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/GamePassConfig.luau",
+    "sha256": "3f87b1759cca00340532cbbfa4a5b5a19a4db26c2fdbc2d8704b0e3337962799",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Config",
+      "MovementConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Config/MovementConfig.luau",
+    "sha256": "826ea7c004dec61ac6db6739474118d5a4e5c61ac07d8f0e675ea99555656557",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Util",
+      "Format"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Util/Format.luau",
+    "sha256": "01fd21899f63dc872a5e26afc62d396de99fd3103e9c67b39304dfc2c42e1218",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Util",
+      "CardStats"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Util/CardStats.luau",
+    "sha256": "35c0cf53eba211f3bbe0ca26b3b7fefc70abb25d490e931b6c4ed1fe23ec8b1e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Util",
+      "RarityFormat"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Util/RarityFormat.luau",
+    "sha256": "0ee9cffcf098ecf214b91f1f60de76d784bb5605ac1dada10347bf3038fe80a8",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Net",
+      "Remotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Net/Remotes.luau",
+    "sha256": "1beeb4fe53d802d4b39741642eb5146cf3c1ea432c3d7cf82cb70238b234c24c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Net",
+      "BattleRemotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Net/BattleRemotes.luau",
+    "sha256": "dfebb8a29f9426e1bdb0396112631ed0ee441e8523630906e2c2b2f1093fdcf6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Net",
+      "SkillRemotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Net/SkillRemotes.luau",
+    "sha256": "1ac3f54052ca147bddec28c0048c210dfa70c72e7db7782ccfc2aa7ce2f55976",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Net",
+      "MountRemotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Net/MountRemotes.luau",
+    "sha256": "3b515d8a0977601c14668947d5d21abf23d1ecf932d45b6de5370e80329ae8f6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Net",
+      "SummonCoreRemotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Net/SummonCoreRemotes.luau",
+    "sha256": "0985d3a162288785e7556d1c31b9eed9c08f14453a30551e0518c72c758a088d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "CombatEngine"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/CombatEngine.luau",
+    "sha256": "62705b9acf9b9d5b6d2c9df8bbd960099cda8a578580b2af377fcee001b24ef0",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "BattleRuntime"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/BattleRuntime.luau",
+    "sha256": "4e6eba6905c2ecb5ce0b8acd98831d02fc7fa45aa49d6a79f3b377877b7a7679",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "LocationRuntime"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/LocationRuntime.luau",
+    "sha256": "89e4b55c43ae585231d44a7b6ab0f015eb6f6f473c4257e6fba0ffce64e9d5a1",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "AttackContext"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/AttackContext.luau",
+    "sha256": "13306d5ae59929b5e506122b2949e9c24d0b7c4a391642df177b2f2322054dce",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "CardAbilityRules"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/CardAbilityRules.luau",
+    "sha256": "e0dc9e9a5d8f077a3963a41429b52cecf4bb2ba3c5e3ee4915532a8062f032e9",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "Combat",
+      "TurnOrder"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/Combat/TurnOrder.luau",
+    "sha256": "5b58ab94285687378bd0b19dfd49c1280d5a799d4be4d840c02d95f7f240efa8",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "CardRenderer"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/CardRenderer.luau",
+    "sha256": "34b0e20a8299d4502bd89ac9484109b99788c3a653390611ee61cc0864af4597",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "Theme"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/Theme.luau",
+    "sha256": "af98156b53db7a6ee08186f81b80e58dd3b4500392efc7d39a978eeb1bf6796c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "CardTile"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/CardTile.luau",
+    "sha256": "fa644efe21f318eb329aedc46a362eaa52741f0051a08fb34a0515987cec4a2d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "Shine"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/Shine.luau",
+    "sha256": "09ffe0a999c923ac40b0e96862388c40e01ac56fa36da60ad7f415939d3de9c9",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "Sfx"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/Sfx.luau",
+    "sha256": "70a6dda6cc25d47de5406aac55c46a979c29fdb6e0935000b49eb22c0ca5f431",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "TextShine"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/TextShine.luau",
+    "sha256": "0563de7f9db008c87f2406d77565e09f0594b2254d9a2cfec4d2d853e0bb4294",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "UITheme"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/UITheme.luau",
+    "sha256": "7d367803c5745e4d4c0d9b0a4b6feb5552ca7409e3207cce2f24be91ddce6953",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "ButtonAnimator"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/ButtonAnimator.luau",
+    "sha256": "457d466422df102041fe7a07b3a433a9c07d0fadb7da01c7406c5a906a3ee9ee",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "MenuStyler"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/MenuStyler.luau",
+    "sha256": "879421c73ff608c284752b75d7b5c5d3833054fb82224ef04976417a6cabd823",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "MenuAnimator"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/MenuAnimator.luau",
+    "sha256": "61b0afe75b716f4ebefea572d750453d4ea00f59e1d4a956875859db35b3bb83",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "RewardPopup"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/RewardPopup.luau",
+    "sha256": "59fb6e182fc695a3463223e69cae4ec1bc6ab4ea3aaaf33e2d3e1874ea77ba06",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "BattleTheme"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/BattleTheme.luau",
+    "sha256": "06540da87ce086fd9995b2a4ceb9bad6817d246d1adf4b5a5667d5b49a01cbd2",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "BattleLayout"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/BattleLayout.luau",
+    "sha256": "7591a4aedfcd8b9bc432ea4ea2ab6fe0afe7570508ba82ae2f575c05003bf40c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "RestrictionTip"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/RestrictionTip.luau",
+    "sha256": "396e64722b2874206776b28819bf504158f4481a782c96a0199134f9cbf2170b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "ElderCoin"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/ElderCoin.luau",
+    "sha256": "9193f5df7cf52e6fb2cc3f793d98d9eeb000d837ccb7a3dd12118bc31e6db880",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "ElderEssence"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/ElderEssence.luau",
+    "sha256": "632230656e419c0bc6fbc0af239480e83238716d8b7a5a946dfe78d3781f105f",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "CardActions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/CardActions.luau",
+    "sha256": "61eaa1c3df70ebb7da9d8e4b782b40d1ec294c10c42f28433a37b3f3cd96e1bc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "PanelHeader"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/PanelHeader.luau",
+    "sha256": "0c4667f33f72ca6bc3331e8467afb4606d5f0a302d2d7d75f198d8f8abaeb24c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "Sweep"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/Sweep.luau",
+    "sha256": "3142f0599d32c3931f76c443ccf62d71d1ffb99da7e7fe5de25c6b699ba9e5b6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "MenuPolish"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/MenuPolish.luau",
+    "sha256": "728973693865bd12b0d9a9a1ef1e527b9a5c50c199832b41d48312c271aec5d4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "InventoryPresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/InventoryPresentation.luau",
+    "sha256": "6b0cd3463b4099106dafcdc323109d52b918bd78406bdfed529d1277fe163b1c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "ArtLoader"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/ArtLoader.luau",
+    "sha256": "757b48e63523a75a34e5ad9e3e24ede49abfda9b6f2cff514cffb6053b45ffb6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "StatusVfx"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/StatusVfx.luau",
+    "sha256": "2d7809af8ccdd481a519e8ca0b9396e01988e49fd35b8f111749a07901031885",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "AbilityVfx"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/AbilityVfx.luau",
+    "sha256": "f5c78ab67ff38932e3953a5572de991776a51039b7c6485aa2771f021a743b66",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "ItemStage"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/ItemStage.luau",
+    "sha256": "dc718c99e3f072d12335d24bf97be1a94f689e56471cc4203722f9ed732508eb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "SummonRoulette"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/SummonRoulette.luau",
+    "sha256": "1c285efbbf986aa75195e41db1ee3fae710950b9354c91f503708a07ae3783aa",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "SettingsPresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/SettingsPresentation.luau",
+    "sha256": "7880c846679355c508be28789e2887c35668663ee43b449bbcb286bf4729d0e3",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "LeaderboardVisibility"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/LeaderboardVisibility.luau",
+    "sha256": "625dfe7538dd359a8bfb5c9a382394800059177f12207bb3f2cbbe6fc4401a09",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "UI",
+      "StorePresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/UI/StorePresentation.luau",
+    "sha256": "bf4be17c1b84078adfc1766c4e205010a1263fe67b1dd7e1ec34b8880f02a25f",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "World",
+      "SkillNodePart"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/World/SkillNodePart.luau",
+    "sha256": "9b9ff3427bcfe34b1fa7bc2c5d67ed3194bea37ae2ec273322f5dffb17e07814",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "World",
+      "SkillLinkBeam"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/World/SkillLinkBeam.luau",
+    "sha256": "ece62ecb5ab91807e2e96c5b1ccffb5744335239a443deb1c3bb562ff4725777",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "World",
+      "SkillTreeBoard"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/World/SkillTreeBoard.luau",
+    "sha256": "4fac24be5a596c7a0efb33f29d32b50e7e933f0b455b311e8274c15102df592a",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "World",
+      "SkillTreeCamera"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/World/SkillTreeCamera.luau",
+    "sha256": "8f380ada2cb6d169ed6151525fa8fdafd3cb3f042ccbc552c572b3a5dd5f058f",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ReplicatedStorage",
+      "Shared",
+      "World",
+      "EncounterCard"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/Shared/World/EncounterCard.luau",
+    "sha256": "b2c0837c05090af5a474ed171d80c6592b094f8cffaca3e6dd7b7d7fc895198d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "DataService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/DataService.luau",
+    "sha256": "022dc8b2fd20631f3afa8370bb87bac7983c291544c4c8e9b93ce26af63e87bf",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "RollService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/RollService.luau",
+    "sha256": "860b512d5cf70f6313d2573100424388f0744516dff1053ce81e69e4f5590bea",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "DebugService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/DebugService.luau",
+    "sha256": "58471d91c5e77c9e137e2b4bb56418c844abebd030d16b66446f3ab155d0c7e6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "LevelService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/LevelService.luau",
+    "sha256": "e16689b8f00fdbaa60ff56bec0a2f03e2be7fa66f194c743a32dbf8470845bf0",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "DeckService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/DeckService.luau",
+    "sha256": "18f09771c2589a44f10fb1cd74bc74425cefce0fa6056b7458015a2d63f5aa34",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "LeaderboardService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/LeaderboardService.luau",
+    "sha256": "5eb3cfe881a6fd7b61f71d39484f59d9e073516a1ca9a7f42441b8912eb5eece",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "BattleService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/BattleService.luau",
+    "sha256": "4db6097872c03218826891b2af8c148b91a9eaf678525c677fcb4fb34928f4bb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "TravelService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/TravelService.luau",
+    "sha256": "b713f5fb469e8cb0655217d69ca13152f1509a1bbc8afed73d60271c60f5054e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "SkillTreeService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/SkillTreeService.luau",
+    "sha256": "87bea1d5dbfe7beba68871393cdd90c1e3e26b4e4b082f9e4aef7ddb45bf769f",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "MountService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/MountService.luau",
+    "sha256": "c9c484cfa104b90ce975de1dfbe4e80f618aa67cb1e1c0d2a007fb632b47bafc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "SummonCoreService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/SummonCoreService.luau",
+    "sha256": "28ada7bdc866fdd5b7252f8499e0a599124357b2f90aadadc33810e8db5fca39",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "SettingsService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/SettingsService.luau",
+    "sha256": "3c4c7d63f931b3cc8c4f8228bdc533aeda1b47e294f731fc6d201b7f0d7eac71",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "GamePassService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/GamePassService.luau",
+    "sha256": "056ff94abc73799934ae7306c551bb05a877e2f62ed92b537a04277600cbae08",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Services",
+      "CodeService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/Services/CodeService.luau",
+    "sha256": "d565a6873da07d1b6ace738806734a72d46bc0687f2c0307412af093739511d7",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "Bootstrap"
+    ],
+    "class": "Script",
+    "file": "src/ServerScriptService/Server/Bootstrap.server.luau",
+    "sha256": "b594b355346528e7f26588ebe4cf65decbb8a53607433505ce006662973b0afb",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "Server",
+      "CodeConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/Server/CodeConfig.luau",
+    "sha256": "cdddfca346a006cf1de8d857935b42e61e573470a69e19a98aebd565940592ce",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerScriptService",
+      "AdminCommandService"
+    ],
+    "class": "Script",
+    "file": "src/ServerScriptService/AdminCommandService.server.luau",
+    "sha256": "9cfde4fa4cc53673a14c184501326bb6dc8e2397f1dc8c784cc0cc72d3696725",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "~ Classic Roblox Text Pack ~ Fun Style Stud Legacy",
+      "Script"
+    ],
+    "class": "Script",
+    "file": "src/ServerStorage/~ Classic Roblox Text Pack ~ Fun Style Stud Legacy/Script.server.luau",
+    "sha256": "de16dfb8e3ad299bc672cbc4c46d22fec585b2e556e3d7f90154fee662254a4d",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 0
+      }
+    }
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "~ Classic Roblox Text Pack ~ Fun Style Stud Legacy",
+      "Script",
+      "ModuleScript"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/~ Classic Roblox Text Pack ~ Fun Style Stud Legacy/Script/ModuleScript.luau",
+    "sha256": "d0c0202598c626d33d65383903e2a42aa59c6d6f6e3e35b04551f7eb578fdee6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "RemovedByClaude",
+      "Ocean",
+      "OceanMotion"
+    ],
+    "class": "Script",
+    "file": "src/ServerStorage/RemovedByClaude/Ocean/OceanMotion.server.luau",
+    "sha256": "e934b72887af3840460f9834403588cc59827d8bb49119efb6da1048fe092c5f",
+    "properties": {
+      "Disabled": false,
+      "RunContext": {
+        "Enum": 2
+      }
+    }
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "RemovedByClaude",
+      "BattleController_OLD"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/RemovedByClaude/BattleController_OLD.luau",
+    "sha256": "46eb3c6a3e90149b2e145cb4fb3c69c51e4596aafb167abcafdd68e7152dd9eb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "IslandTerrainPlacement"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/IslandTerrainPlacement.luau",
+    "sha256": "0ebb411042c3e281f832093484ee727504bcc040116fefe55f6ba7581bde9b7b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "RevealController_PreVFX"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/RevealController_PreVFX.luau",
+    "sha256": "814533c3ae58d394111b26f6a08e4bc4408ea6b40e1c4ceecac3f6048588219e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "TravelService_BeforeRoshiArrivalFix"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/TravelService_BeforeRoshiArrivalFix.luau",
+    "sha256": "a66aed21764e1349d3306e240eaaeb1e6a06e7a0953d1ddf346408811cd04449",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeTeleportMenuFix",
+      "MenuController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeTeleportMenuFix/MenuController.luau",
+    "sha256": "5ac03881f2d5595917fe532c3daee96e50b7c647a24f4b67b298e7a84889e8ea",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeTeleportMenuFix",
+      "TravelService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeTeleportMenuFix/TravelService.luau",
+    "sha256": "7b996206842e64ffa16e7dd6e53964e449b119a617a46fe78413b43ede3ca8ba",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeTeleportMenuFix",
+      "Remotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeTeleportMenuFix/Remotes.luau",
+    "sha256": "4611b18ad4de8c623b2e282915f6750f08f5d790122ad30cf174e1d3d2d52f3d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBackpackRedesign",
+      "InventoryPresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBackpackRedesign/InventoryPresentation.luau",
+    "sha256": "6cfb8834a814fd44c154b88aa4355555782d45fb4fc002112c95bbd4883116b5",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBackpackRedesign",
+      "ElderCoin"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBackpackRedesign/ElderCoin.luau",
+    "sha256": "0963c397f7b3afe3c91ce627cbafe23e20f6fc4b88407727a23437faa772e0fc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBackpackRedesign",
+      "MenuController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBackpackRedesign/MenuController.luau",
+    "sha256": "f0d98c45f275933b1756226a150fcf120161d273cec0342d7b78e306981dbe9e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillTreeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeController.luau",
+    "sha256": "eaf33b579e3b90ab75c053c2e402d55acfedd4b46d9b651eb35fb0c427248fcb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "DeckController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DeckController.luau",
+    "sha256": "afd1a100b28e0a69e1bbda38f1750c00df35a1161f0f3c417b1f0598df26e351",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "CardActions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/CardActions.luau",
+    "sha256": "d7dc01eafd1f04a6c8c864e9256f88b7df74500ffb94cb715281cf8b4c3d62f6",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "DeckService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DeckService.luau",
+    "sha256": "355359bc332b40b0f83f86ce18506ecd7776a0fb101447583081406965ad9963",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillNodePart"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillNodePart.luau",
+    "sha256": "08cdc586ac906b2b4a51579818471ac531fe876fea48165ae92d69472c3cca9c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillTreeBoard"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeBoard.luau",
+    "sha256": "8225ee9f4898ce24755229931028d7793764adae2f92627b206e3a6f921d8efd",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillLinkBeam"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillLinkBeam.luau",
+    "sha256": "3f76109638122aa1a250844691695659b71d9c574ef2f5aaf9a8712283baff5a",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillDefinitions.luau",
+    "sha256": "c230f987c9558f075f126ce8c0263aa6520b9156e4542c03755de3a554870dcc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "SkillTreeCamera"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeCamera.luau",
+    "sha256": "ffcfd18e6ec5831d7464af544a15b308a39e6ce5f45638a7cbe7b39882526873",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "DataService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DataService.luau",
+    "sha256": "01ffdcf1744f706668705fc1e8eaadeaf4233dc9e0f240c29d364af44fc5da5e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeDeckRevamp",
+      "CardForgeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeDeckRevamp/CardForgeController.luau",
+    "sha256": "e92125f3a094721e89331377efe3da99e968cdd925328478fe5b64140f845872",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "MenuController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/MenuController.luau",
+    "sha256": "f69849625dba28b1f0eb1acc42a0f2e5c3a0d80f4a7c281120ee5f1df6574543",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "CardForgeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/CardForgeController.luau",
+    "sha256": "3db78d5789c963e9a00ee25a624cd02b508c32531b952e9ee9f5514108c94b42",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/BattleController.luau",
+    "sha256": "3cd51ffe32f2a048c1cd9b2f666518aca8f82db0bd6f56ee77172458b2f6a0fa",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "LeaderboardController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/LeaderboardController.luau",
+    "sha256": "cdbc9a9453593c59c822c1caf69b2b124c552c9301d14dfe5a64ddf827e3fefb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "DeckController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/DeckController.luau",
+    "sha256": "58cf56df5b86091b4cc589b0d706bb7c0851d10c9781854b05cc7f458adbf3f5",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeLeaderboardFix",
+      "SkillTreeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeLeaderboardFix/SkillTreeController.luau",
+    "sha256": "58b5a1d06f28b325eb1a8035bcf76884729b74157e02a56bb47e49f31be84496",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillTreeController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeController.luau",
+    "sha256": "78359ae05b37d8ae2b32e4f02a097aa4fa69f1df89124f63bd647bdc1bd8e11b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillDefinitions.luau",
+    "sha256": "e40e72341b1ec1d4b5161ded47e2c8d2aed5664d715ca0dc1a57ec9db04b3ed4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillTreeService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeService.luau",
+    "sha256": "88788c5b2427f31bba287b10c2859f4777ec1c9efd81cc20744205e3a186b6a3",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillTreeBoard"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeBoard.luau",
+    "sha256": "dbb8c15588716a2783d1d40a13ea81b8c756deb8e1db018f3fd480500f17d661",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillNodePart"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillNodePart.luau",
+    "sha256": "5bf36860f92ca7cc37867bb25eae98febd7a03798e031496d1341bd4bcb4f187",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSkillTreeSimplify",
+      "SkillLinkBeam"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSkillTreeSimplify/SkillLinkBeam.luau",
+    "sha256": "ece62ecb5ab91807e2e96c5b1ccffb5744335239a443deb1c3bb562ff4725777",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeVictoryPopupRedesign",
+      "RewardPopup"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeVictoryPopupRedesign/RewardPopup.luau",
+    "sha256": "d6c0d3cb703716378add9f39a908842a39633eef40943b75da7618d22e9df95e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeVictoryPopupRedesign",
+      "Theme"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeVictoryPopupRedesign/Theme.luau",
+    "sha256": "af98156b53db7a6ee08186f81b80e58dd3b4500392efc7d39a978eeb1bf6796c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSevenNewCards_1790520060",
+      "CardDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSevenNewCards_1790520060/CardDefinitions.luau",
+    "sha256": "102a15010a322ddd74b35e2f5766ce56276311fcc68f038f016dea7beaf88533",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSevenNewCards_1790520060",
+      "PassiveDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSevenNewCards_1790520060/PassiveDefinitions.luau",
+    "sha256": "0da63ae35a19bde19277492cbdb074255ce62910da2fc831d9cee3861d7c59cd",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSevenNewCards_1790520060",
+      "StatusEffects"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSevenNewCards_1790520060/StatusEffects.luau",
+    "sha256": "51868ecdc5a0ab587e92f42e845ad1e44cf1dd09a5114a34e37e85ec34278e6d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSevenNewCards_1790520060",
+      "BattleRuntime"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSevenNewCards_1790520060/BattleRuntime.luau",
+    "sha256": "857667154beab1e4817947802e8c99d249a3f9beb386b5a191441a7959f5b81d",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeSevenNewCards_1790520060",
+      "CombatEngine"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeSevenNewCards_1790520060/CombatEngine.luau",
+    "sha256": "4363c505cb8f0e96689364e1ce888e88fbd62da3bbb5ab7ccf5c14f06beb1b71",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "CardDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/CardDefinitions.luau",
+    "sha256": "9b9ce75dd2862834c5a2637350e4285dc9af6a1b12a4518bbeed08edefe0e917",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "PassiveDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/PassiveDefinitions.luau",
+    "sha256": "aaa8f12b7ad4626398530b866db206a12ead3e66eed223a9db3d7cbcda910a5c",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "BattleRuntime"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleRuntime.luau",
+    "sha256": "a192f4c11b1a668ded43041a7f15e2ed11101e8790885fca87434663893f1dba",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "CombatEngine"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/CombatEngine.luau",
+    "sha256": "4be9db94384d207496f2d2a7b4a8f9d6f6fb0d2f2bf729e6da5d62bbe23d00e4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "BattleService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleService.luau",
+    "sha256": "11893e15d25b2518edaf3c7ec397c0721146be3c735765a1c40f8ff2846215cb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeGeassTurnOrder_1790528454",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleController.luau",
+    "sha256": "679caca8979cb7b93e2904889836f35cb3d28d779dbc783c0a155387c3c504bf",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeKameHouse",
+      "EncounterDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeKameHouse/EncounterDefinitions.luau",
+    "sha256": "7d0f397e8a822683bc4240e1b20d05610eca7ba3bf953dd2de8cd8328c4d9d84",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeKameHouse",
+      "EncounterModes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeKameHouse/EncounterModes.luau",
+    "sha256": "856598131e8df2f0e7b7e8b794fb93364550dac57f74c4d02a0c2ba87765dac1",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeKameHouse",
+      "BattleService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeKameHouse/BattleService.luau",
+    "sha256": "6246a64a5eb9e4a4bbf098e8b8934bdf30f05cf236e8c53aad02106e5a8d96bb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeKameHouse",
+      "NPCEncounterController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeKameHouse/NPCEncounterController.luau",
+    "sha256": "8344f68fbd1eaab05d22b5d4dece64e2b12b6ff75598fe93c1692363c12e3bf7",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "SkillTreeService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/SkillTreeService.luau",
+    "sha256": "6c14dba3913722c727c11e365c33ce96462f5e2bd42750234ea36609f53144a0",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "SummonCoreService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/SummonCoreService.luau",
+    "sha256": "030daa20fa27857c48feddd9992297e00c756672912b0105cf9d564af203d241",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "BattleService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/BattleService.luau",
+    "sha256": "88605f51ef8ef59479b29aa7d7ff8c92b95b8667b50f4c8e931adf71db00bd7a",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/BattleController.luau",
+    "sha256": "8417a56feee38aaad0d9396b899d97cf62f09a02322c27c7d395eef8b68394bb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "MenuController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/MenuController.luau",
+    "sha256": "c07d8d9ce616f13d3dbb817ee94d3df8e1aeeb6a9d4abf8f3608b6cd39743788",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "BattleTheme"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/BattleTheme.luau",
+    "sha256": "bfe34b9115df5bb5065a1c196efc7b05070ae4ca8c8803cfb35f62c4029ecb6e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeStoreRevamp",
+      "SummonRoulette"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeStoreRevamp/SummonRoulette.luau",
+    "sha256": "ba20c1f7a17dd659131fbe4283cc09fa90b190893c7aebf33ff5745797dd5c5e",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeDeckReimagine",
+      "DeckController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeDeckReimagine/DeckController.luau",
+    "sha256": "f1e17b552c6d098d1cc78379be60682d315ab204f2ddbe076ee3fcd95d685157",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeRedeemCodes",
+      "StorePresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeRedeemCodes/StorePresentation.luau",
+    "sha256": "74f4ed0430ae8e4909ef4a1f2f8e7f345bcd90c252e9aad529431abb74512722",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeRedeemCodes",
+      "Remotes"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeRedeemCodes/Remotes.luau",
+    "sha256": "0304addaf004e51338e68233721653bbb19fc3ef90027009c49a96f13553ba77",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeMountRework",
+      "MountController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeMountRework/MountController.luau",
+    "sha256": "6ae2e1a8e30289f4ce010cdc29937cbaa17dfd1ab93eaf3e3e5652de32861bcf",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeMountRework",
+      "MountDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeMountRework/MountDefinitions.luau",
+    "sha256": "932c35743d99c77660c2da8fe7ec5e03aa4fdf4896a1bf451370bf965ced303a",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "SummonCoreConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonCoreConfig.luau",
+    "sha256": "eb610df7401e15c3d52d1c8bea9da016a5718d57e5a61787f339bb9d8bb7e194",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "RollService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/RollService.luau",
+    "sha256": "5dbac1d47742e73e997c560705e2ce76a37b01e3db0662de36d25a60e1613b2b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "SummonCoreService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonCoreService.luau",
+    "sha256": "764d643fa4ee6521a4e601386c3a316b6ee83dfc6b9394c777a0057834093bd7",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "InventoryPresentation"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/InventoryPresentation.luau",
+    "sha256": "39c402590a489fed72e347dcaf17d1d8915a9f57d0c5ab241a6140d55a1f1c3b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "DebugService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/DebugService.luau",
+    "sha256": "b25334468046973aeb61a5bf01db2e0383a1c771fdd1a444ab4852524210c6e1",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeCoreGuarantees_1790595438",
+      "SummonRoulette"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonRoulette.luau",
+    "sha256": "20ede7d5f08590f6805ae9cd181864a4af0a33f66da1587e7aae80ce941942b4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattleRedesign",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattleRedesign/BattleController.luau",
+    "sha256": "cd0c4afd8c0e809465b4a653921d8326a8d8dce3219627a32fceb8dfdaa53d84",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattleRedesign",
+      "BattleLayout"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattleRedesign/BattleLayout.luau",
+    "sha256": "aa7cc562efb46a28b594abddb755bde25781f14d0b38c438ca86d0b1c507aefc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattleRedesign",
+      "StatusVfx"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattleRedesign/StatusVfx.luau",
+    "sha256": "54b12c7026b32ff73739f2244aaea550b5a9d4a1abe334b1e705fc126c56b542",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattleRedesign",
+      "StatusEffects"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattleRedesign/StatusEffects.luau",
+    "sha256": "337fbfaa66260182c30123fa61f29fc13532ad96e5edd0f1727fd48b2cbd2cfa",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattleRedesign",
+      "GameConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattleRedesign/GameConfig.luau",
+    "sha256": "e9b9b076e887f93de1527648dad2c77994a846c0808a0bd74634b8acb108425b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattlePolish",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattlePolish/BattleController.luau",
+    "sha256": "1253e509e6305290495cf4a7f24a79241d7e9f87829c6bed57c45482b6607651",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattlePolish",
+      "BattleLayout"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattlePolish/BattleLayout.luau",
+    "sha256": "a3e88f4746920b7ddd92134d86cd456ce03fb8cebe761415819a8229578452fc",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattlePolish",
+      "GamePassConfig"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattlePolish/GamePassConfig.luau",
+    "sha256": "0530e9e080f9be1cdaafad16b059a8233415c8481767704794ce0018e0c3546b",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeBattlePolish",
+      "GamePassService"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeBattlePolish/GamePassService.luau",
+    "sha256": "4e980ad14cf3ce3bfa4e031f99a88726689698f7e2f14ebeab44d17478ddc461",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeEffectColumn",
+      "BattleRuntime"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeEffectColumn/BattleRuntime.luau",
+    "sha256": "0ea6f389a479ed0a5964f5a06997d8e400b8707a73647a94f90afc544dc1d361",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeEffectColumn",
+      "StatusEffects"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeEffectColumn/StatusEffects.luau",
+    "sha256": "45f6bc4987d8fca7eacd8f79ed0853f7f589ae41b8a676a390a9b76816c831f1",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeEffectColumn",
+      "StatusVfx"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeEffectColumn/StatusVfx.luau",
+    "sha256": "a510fb19d7d66db98146a53ec960600d9b912c830cb2f81531d3b4887ba7d5bb",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeEffectColumn",
+      "BattleController"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeEffectColumn/BattleController.luau",
+    "sha256": "b8ae70a03486cc2a89fe377f664e7b0c7be5d7ef5433122e880de534f7021fa4",
+    "properties": {}
+  },
+  {
+    "path": [
+      "ServerStorage",
+      "BeforeEffectColumn",
+      "PassiveDefinitions"
+    ],
+    "class": "ModuleScript",
+    "file": "src/ServerStorage/BeforeEffectColumn/PassiveDefinitions.luau",
+    "sha256": "4744e6ad3c27355fa0d20205172a8cdba6f583ae84ebe282e5d89be6297ec3eb",
+    "properties": {}
+  }
+]

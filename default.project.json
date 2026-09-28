@@ -1,0 +1,1042 @@
+{
+  "name": "Anime Card Online - Scripts",
+  "emitLegacyScripts": true,
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+      "ArlongPark": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "PortalToLobby": {
+          "$className": "Model",
+          "$ignoreUnknownInstances": true,
+          "PortalFX": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/Workspace/ArlongPark/PortalToLobby/PortalFX.server.luau",
+            "$properties": {
+              "Disabled": false,
+              "RunContext": {
+                "Enum": 2
+              }
+            }
+          }
+        },
+        "MapBoundaries": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "VoidFailsafe": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/Workspace/ArlongPark/MapBoundaries/VoidFailsafe.server.luau",
+            "$properties": {
+              "Disabled": false,
+              "RunContext": {
+                "Enum": 1
+              }
+            }
+          }
+        },
+        "Environment": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "BattlePools": {
+            "$className": "Folder",
+            "$ignoreUnknownInstances": true,
+            "PoolMotion": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/Workspace/ArlongPark/Environment/BattlePools/PoolMotion.server.luau",
+              "$properties": {
+                "Disabled": false,
+                "RunContext": {
+                  "Enum": 2
+                }
+              }
+            }
+          }
+        }
+      },
+      "RoshiHouse": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "PortalToLobby": {
+          "$className": "Model",
+          "$ignoreUnknownInstances": true,
+          "PortalFX": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/Workspace/RoshiHouse/PortalToLobby/PortalFX.server.luau",
+            "$properties": {
+              "Disabled": false,
+              "RunContext": {
+                "Enum": 2
+              }
+            }
+          }
+        }
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$ignoreUnknownInstances": true,
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$ignoreUnknownInstances": true,
+        "Client": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "Controllers": {
+            "$className": "Folder",
+            "$ignoreUnknownInstances": true,
+            "RevealController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/RevealController.luau"
+            },
+            "ThemeController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/ThemeController.luau"
+            },
+            "DeckController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/DeckController.luau"
+            },
+            "MusicController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MusicController.luau"
+            },
+            "LeaderboardController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/LeaderboardController.luau"
+            },
+            "MenuController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MenuController.luau"
+            },
+            "UIController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/UIController.luau"
+            },
+            "LocationController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/LocationController.luau"
+            },
+            "SkillTreeController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/SkillTreeController.luau"
+            },
+            "BattleController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/BattleController.luau"
+            },
+            "NPCEncounterController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/NPCEncounterController.luau"
+            },
+            "EncounterWorldController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/EncounterWorldController.luau"
+            },
+            "MountController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MountController.luau"
+            },
+            "MonumentController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MonumentController.luau"
+            },
+            "CardForgeController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/CardForgeController.luau"
+            },
+            "AudioController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/AudioController.luau"
+            },
+            "MovementController": {
+              "$ignoreUnknownInstances": true,
+              "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Controllers/MovementController.luau"
+            }
+          },
+          "Bootstrap": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/StarterPlayer/StarterPlayerScripts/Client/Bootstrap.client.luau",
+            "$properties": {
+              "Disabled": false,
+              "RunContext": {
+                "Enum": 0
+              }
+            }
+          }
+        },
+        "GlobalBoldFuzzyBubbles": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/StarterPlayer/StarterPlayerScripts/GlobalBoldFuzzyBubbles.client.luau",
+          "$properties": {
+            "Disabled": true,
+            "RunContext": {
+              "Enum": 0
+            }
+          }
+        },
+        "RoshiEnvironmentController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/StarterPlayer/StarterPlayerScripts/RoshiEnvironmentController.client.luau",
+          "$properties": {
+            "Disabled": false,
+            "RunContext": {
+              "Enum": 0
+            }
+          }
+        }
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": true,
+      "Shared": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "Config": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "GameConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/GameConfig.luau"
+          },
+          "PassiveDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/PassiveDefinitions.luau"
+          },
+          "CardDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/CardDefinitions.luau"
+          },
+          "StatusEffects": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/StatusEffects.luau"
+          },
+          "Limits": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/Limits.luau"
+          },
+          "ChallengeModifiers": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/ChallengeModifiers.luau"
+          },
+          "EnemyDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/EnemyDefinitions.luau"
+          },
+          "StageDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/StageDefinitions.luau"
+          },
+          "VariantConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/VariantConfig.luau"
+          },
+          "RarityBands": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/RarityBands.luau"
+          },
+          "SupportDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/SupportDefinitions.luau"
+          },
+          "BookDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/BookDefinitions.luau"
+          },
+          "LocationDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/LocationDefinitions.luau"
+          },
+          "MenuConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/MenuConfig.luau"
+          },
+          "VfxAssets": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/VfxAssets.luau"
+          },
+          "SkillDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/SkillDefinitions.luau"
+          },
+          "SkillEffects": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/SkillEffects.luau"
+          },
+          "MapRegistry": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/MapRegistry.luau"
+          },
+          "EncounterDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/EncounterDefinitions.luau"
+          },
+          "EncounterModes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/EncounterModes.luau"
+          },
+          "MountDefinitions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/MountDefinitions.luau"
+          },
+          "SummonCoreConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/SummonCoreConfig.luau"
+          },
+          "GamePassConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/GamePassConfig.luau"
+          },
+          "MovementConfig": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Config/MovementConfig.luau"
+          }
+        },
+        "Util": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "Format": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Util/Format.luau"
+          },
+          "CardStats": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Util/CardStats.luau"
+          },
+          "RarityFormat": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Util/RarityFormat.luau"
+          }
+        },
+        "Net": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "Remotes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Net/Remotes.luau"
+          },
+          "BattleRemotes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Net/BattleRemotes.luau"
+          },
+          "SkillRemotes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Net/SkillRemotes.luau"
+          },
+          "MountRemotes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Net/MountRemotes.luau"
+          },
+          "SummonCoreRemotes": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Net/SummonCoreRemotes.luau"
+          }
+        },
+        "Combat": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "CombatEngine": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/CombatEngine.luau"
+          },
+          "BattleRuntime": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/BattleRuntime.luau"
+          },
+          "LocationRuntime": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/LocationRuntime.luau"
+          },
+          "AttackContext": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/AttackContext.luau"
+          },
+          "CardAbilityRules": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/CardAbilityRules.luau"
+          },
+          "TurnOrder": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/Combat/TurnOrder.luau"
+          }
+        },
+        "UI": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "CardRenderer": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/CardRenderer.luau"
+          },
+          "Theme": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/Theme.luau"
+          },
+          "CardTile": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/CardTile.luau"
+          },
+          "Shine": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/Shine.luau"
+          },
+          "Sfx": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/Sfx.luau"
+          },
+          "TextShine": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/TextShine.luau"
+          },
+          "UITheme": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/UITheme.luau"
+          },
+          "ButtonAnimator": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/ButtonAnimator.luau"
+          },
+          "MenuStyler": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/MenuStyler.luau"
+          },
+          "MenuAnimator": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/MenuAnimator.luau"
+          },
+          "RewardPopup": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/RewardPopup.luau"
+          },
+          "BattleTheme": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/BattleTheme.luau"
+          },
+          "BattleLayout": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/BattleLayout.luau"
+          },
+          "RestrictionTip": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/RestrictionTip.luau"
+          },
+          "ElderCoin": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/ElderCoin.luau"
+          },
+          "ElderEssence": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/ElderEssence.luau"
+          },
+          "CardActions": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/CardActions.luau"
+          },
+          "PanelHeader": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/PanelHeader.luau"
+          },
+          "Sweep": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/Sweep.luau"
+          },
+          "MenuPolish": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/MenuPolish.luau"
+          },
+          "InventoryPresentation": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/InventoryPresentation.luau"
+          },
+          "ArtLoader": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/ArtLoader.luau"
+          },
+          "StatusVfx": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/StatusVfx.luau"
+          },
+          "AbilityVfx": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/AbilityVfx.luau"
+          },
+          "ItemStage": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/ItemStage.luau"
+          },
+          "SummonRoulette": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/SummonRoulette.luau"
+          },
+          "SettingsPresentation": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/SettingsPresentation.luau"
+          },
+          "LeaderboardVisibility": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/LeaderboardVisibility.luau"
+          },
+          "StorePresentation": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/UI/StorePresentation.luau"
+          }
+        },
+        "World": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "SkillNodePart": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/World/SkillNodePart.luau"
+          },
+          "SkillLinkBeam": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/World/SkillLinkBeam.luau"
+          },
+          "SkillTreeBoard": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/World/SkillTreeBoard.luau"
+          },
+          "SkillTreeCamera": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/World/SkillTreeCamera.luau"
+          },
+          "EncounterCard": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage/Shared/World/EncounterCard.luau"
+          }
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+      "Server": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "Services": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "DataService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/DataService.luau"
+          },
+          "RollService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/RollService.luau"
+          },
+          "DebugService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/DebugService.luau"
+          },
+          "LevelService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/LevelService.luau"
+          },
+          "DeckService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/DeckService.luau"
+          },
+          "LeaderboardService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/LeaderboardService.luau"
+          },
+          "BattleService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/BattleService.luau"
+          },
+          "TravelService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/TravelService.luau"
+          },
+          "SkillTreeService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/SkillTreeService.luau"
+          },
+          "MountService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/MountService.luau"
+          },
+          "SummonCoreService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/SummonCoreService.luau"
+          },
+          "SettingsService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/SettingsService.luau"
+          },
+          "GamePassService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/GamePassService.luau"
+          },
+          "CodeService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService/Server/Services/CodeService.luau"
+          }
+        },
+        "Bootstrap": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerScriptService/Server/Bootstrap.server.luau",
+          "$properties": {
+            "Disabled": false,
+            "RunContext": {
+              "Enum": 0
+            }
+          }
+        },
+        "CodeConfig": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerScriptService/Server/CodeConfig.luau"
+        }
+      },
+      "AdminCommandService": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerScriptService/AdminCommandService.server.luau",
+        "$properties": {
+          "Disabled": false,
+          "RunContext": {
+            "Enum": 0
+          }
+        }
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "~ Classic Roblox Text Pack ~ Fun Style Stud Legacy": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "Script": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/~ Classic Roblox Text Pack ~ Fun Style Stud Legacy/Script.server.luau",
+          "$properties": {
+            "Disabled": false,
+            "RunContext": {
+              "Enum": 0
+            }
+          },
+          "ModuleScript": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerStorage/~ Classic Roblox Text Pack ~ Fun Style Stud Legacy/Script/ModuleScript.luau"
+          }
+        }
+      },
+      "RemovedByClaude": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "Ocean": {
+          "$className": "Folder",
+          "$ignoreUnknownInstances": true,
+          "OceanMotion": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerStorage/RemovedByClaude/Ocean/OceanMotion.server.luau",
+            "$properties": {
+              "Disabled": false,
+              "RunContext": {
+                "Enum": 2
+              }
+            }
+          }
+        },
+        "BattleController_OLD": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/RemovedByClaude/BattleController_OLD.luau"
+        }
+      },
+      "IslandTerrainPlacement": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerStorage/IslandTerrainPlacement.luau"
+      },
+      "RevealController_PreVFX": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerStorage/RevealController_PreVFX.luau"
+      },
+      "TravelService_BeforeRoshiArrivalFix": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerStorage/TravelService_BeforeRoshiArrivalFix.luau"
+      },
+      "BeforeTeleportMenuFix": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "MenuController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeTeleportMenuFix/MenuController.luau"
+        },
+        "TravelService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeTeleportMenuFix/TravelService.luau"
+        },
+        "Remotes": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeTeleportMenuFix/Remotes.luau"
+        }
+      },
+      "BeforeBackpackRedesign": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "InventoryPresentation": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBackpackRedesign/InventoryPresentation.luau"
+        },
+        "ElderCoin": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBackpackRedesign/ElderCoin.luau"
+        },
+        "MenuController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBackpackRedesign/MenuController.luau"
+        }
+      },
+      "BeforeSkillTreeDeckRevamp": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "SkillTreeController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeController.luau"
+        },
+        "DeckController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DeckController.luau"
+        },
+        "CardActions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/CardActions.luau"
+        },
+        "DeckService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DeckService.luau"
+        },
+        "SkillNodePart": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillNodePart.luau"
+        },
+        "SkillTreeBoard": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeBoard.luau"
+        },
+        "SkillLinkBeam": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillLinkBeam.luau"
+        },
+        "SkillDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillDefinitions.luau"
+        },
+        "SkillTreeCamera": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/SkillTreeCamera.luau"
+        },
+        "DataService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/DataService.luau"
+        },
+        "CardForgeController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeDeckRevamp/CardForgeController.luau"
+        }
+      },
+      "BeforeLeaderboardFix": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "MenuController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/MenuController.luau"
+        },
+        "CardForgeController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/CardForgeController.luau"
+        },
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/BattleController.luau"
+        },
+        "LeaderboardController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/LeaderboardController.luau"
+        },
+        "DeckController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/DeckController.luau"
+        },
+        "SkillTreeController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeLeaderboardFix/SkillTreeController.luau"
+        }
+      },
+      "BeforeSkillTreeSimplify": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "SkillTreeController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeController.luau"
+        },
+        "SkillDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillDefinitions.luau"
+        },
+        "SkillTreeService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeService.luau"
+        },
+        "SkillTreeBoard": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillTreeBoard.luau"
+        },
+        "SkillNodePart": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillNodePart.luau"
+        },
+        "SkillLinkBeam": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSkillTreeSimplify/SkillLinkBeam.luau"
+        }
+      },
+      "BeforeVictoryPopupRedesign": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "RewardPopup": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeVictoryPopupRedesign/RewardPopup.luau"
+        },
+        "Theme": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeVictoryPopupRedesign/Theme.luau"
+        }
+      },
+      "BeforeSevenNewCards_1790520060": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "CardDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSevenNewCards_1790520060/CardDefinitions.luau"
+        },
+        "PassiveDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSevenNewCards_1790520060/PassiveDefinitions.luau"
+        },
+        "StatusEffects": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSevenNewCards_1790520060/StatusEffects.luau"
+        },
+        "BattleRuntime": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSevenNewCards_1790520060/BattleRuntime.luau"
+        },
+        "CombatEngine": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeSevenNewCards_1790520060/CombatEngine.luau"
+        }
+      },
+      "BeforeGeassTurnOrder_1790528454": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "CardDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/CardDefinitions.luau"
+        },
+        "PassiveDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/PassiveDefinitions.luau"
+        },
+        "BattleRuntime": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleRuntime.luau"
+        },
+        "CombatEngine": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/CombatEngine.luau"
+        },
+        "BattleService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleService.luau"
+        },
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeGeassTurnOrder_1790528454/BattleController.luau"
+        }
+      },
+      "BeforeKameHouse": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "EncounterDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeKameHouse/EncounterDefinitions.luau"
+        },
+        "EncounterModes": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeKameHouse/EncounterModes.luau"
+        },
+        "BattleService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeKameHouse/BattleService.luau"
+        },
+        "NPCEncounterController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeKameHouse/NPCEncounterController.luau"
+        }
+      },
+      "BeforeStoreRevamp": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "SkillTreeService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/SkillTreeService.luau"
+        },
+        "SummonCoreService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/SummonCoreService.luau"
+        },
+        "BattleService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/BattleService.luau"
+        },
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/BattleController.luau"
+        },
+        "MenuController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/MenuController.luau"
+        },
+        "BattleTheme": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/BattleTheme.luau"
+        },
+        "SummonRoulette": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeStoreRevamp/SummonRoulette.luau"
+        }
+      },
+      "BeforeDeckReimagine": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "DeckController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeDeckReimagine/DeckController.luau"
+        }
+      },
+      "BeforeRedeemCodes": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "StorePresentation": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeRedeemCodes/StorePresentation.luau"
+        },
+        "Remotes": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeRedeemCodes/Remotes.luau"
+        }
+      },
+      "BeforeMountRework": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "MountController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeMountRework/MountController.luau"
+        },
+        "MountDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeMountRework/MountDefinitions.luau"
+        }
+      },
+      "BeforeCoreGuarantees_1790595438": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "SummonCoreConfig": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonCoreConfig.luau"
+        },
+        "RollService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/RollService.luau"
+        },
+        "SummonCoreService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonCoreService.luau"
+        },
+        "InventoryPresentation": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/InventoryPresentation.luau"
+        },
+        "DebugService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/DebugService.luau"
+        },
+        "SummonRoulette": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeCoreGuarantees_1790595438/SummonRoulette.luau"
+        }
+      },
+      "BeforeBattleRedesign": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattleRedesign/BattleController.luau"
+        },
+        "BattleLayout": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattleRedesign/BattleLayout.luau"
+        },
+        "StatusVfx": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattleRedesign/StatusVfx.luau"
+        },
+        "StatusEffects": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattleRedesign/StatusEffects.luau"
+        },
+        "GameConfig": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattleRedesign/GameConfig.luau"
+        }
+      },
+      "BeforeBattlePolish": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattlePolish/BattleController.luau"
+        },
+        "BattleLayout": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattlePolish/BattleLayout.luau"
+        },
+        "GamePassConfig": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattlePolish/GamePassConfig.luau"
+        },
+        "GamePassService": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeBattlePolish/GamePassService.luau"
+        }
+      },
+      "BeforeEffectColumn": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "BattleRuntime": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeEffectColumn/BattleRuntime.luau"
+        },
+        "StatusEffects": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeEffectColumn/StatusEffects.luau"
+        },
+        "StatusVfx": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeEffectColumn/StatusVfx.luau"
+        },
+        "BattleController": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeEffectColumn/BattleController.luau"
+        },
+        "PassiveDefinitions": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/ServerStorage/BeforeEffectColumn/PassiveDefinitions.luau"
+        }
+      }
+    }
+  }
+}
